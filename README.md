@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jesus! 👋
 
-<!--
-**JesusValdes1/jesusvaldes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Desarrollo de Software | 📍 Veracruz, México 🇲🇽 | Backend & Full Stack Developer
 
-Here are some ideas to get you started:
+💡 *"Si puedes imaginarlo, puedes crearlo."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+☕ Java • 🐘 PHP • ⚙️ C# • 🚀 C++ • 🟨 JavaScript • ⚛️ React  
+🌐 HTML • 🎨 CSS • 🅱️ Bootstrap • 💨 Tailwind • 🐍 Python  
+🎯 Laravel • 🗄️ MySQL
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jesusvaldes1&theme=default)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesusvaldes1&layout=compact&theme=default)
