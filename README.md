@@ -1,6 +1,6 @@
 # Hi, I'm Jesus! 👋
 
-Ingeniero en Desarrollo de Software | 📍 Veracruz, México 🇲🇽 | Backend & Full Stack Developer
+Ingeniero en Desarrollo de Software | 📍 Veracruz, México 🇲🇽 | Full Stack Developer
 
 💡 *"Si puedes imaginarlo, puedes crearlo."*
 
